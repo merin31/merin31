@@ -25,6 +25,13 @@
   />
 </picture>
 
+---
+<!-- 
+<a href="https://github.com/zjayers/github-readme-stats">
+   <img width="60%" alt="Zach's github stats" src="https://github-readme-stats.vercel.app/api?username=merin31&show_icons=true&hide_border=true" />
+</a> -->
+
+
 <!---
 merin31/merin31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
